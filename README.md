@@ -1,17 +1,19 @@
-# cafeteria_flutter
+# Capybites: Flutter Web Template
 
-A new Flutter project.
+Capybites is a Flutter-based project that simulates a web platform for a capybara-themed coffee shop. It serves as an adaptable and scalable base template for any application.
 
-## Getting Started
+This repository highlights the implementation of modern interfaces and a rigorous focus on visual design and user experience (UI/UX).
 
-This project is a starting point for a Flutter application.
+## Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
+* **Framework:** Flutter (Web Optimized).
+* **Language:** Dart.
+* **Architecture:** Modular and reusable components (Glassmorphism).
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Visual Design Focus (Frontend)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project was built to demonstrate skills extending beyond code, covering graphic conceptualization:
+
+* **Logo Design & Identity:** Creation and integration of the original Capybites logo. Demonstrates the ability to translate brand identity directly into interface components.
+* **Color Palette:** Applied color theory. Warm and organic tones were selected to evoke a coffee shop atmosphere and the nature of the capybara, ensuring adequate contrast, accessibility, and clear visual hierarchy.
+* **Modern Visual Style:** Implementation of translucent effects (Glassmorphism) in navigation bars and containers for a clean and contemporary aesthetic.
